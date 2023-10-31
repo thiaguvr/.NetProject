@@ -1,0 +1,2 @@
+# Proiect.NET
+dotnet project
